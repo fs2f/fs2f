@@ -1,3 +1,1 @@
-😴 chaos
-
-committed to nothing, driven by boredom
+Please refer to your provider's manual for more info.
