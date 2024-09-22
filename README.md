@@ -1,1 +1,1 @@
-Please refer to your provider's manual for more info.
+I do stuff, occasionally.
