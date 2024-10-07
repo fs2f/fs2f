@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="/oneko.png" />
+  <img src="/oneko.png">
 </p>
