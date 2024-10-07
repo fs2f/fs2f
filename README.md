@@ -1,5 +1,1 @@
-```pascal
-begin
-    writeln('Welcome!');
-end;
-```
+![kittycat](oneko.png)
