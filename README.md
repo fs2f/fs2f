@@ -1,3 +1,4 @@
+```pascal
 begin
     writeln('Welcome!');
-end;
+end;```
